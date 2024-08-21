@@ -1,4 +1,7 @@
-﻿using System;
+//Por Lúcio e Filipe, turma 2-51
+//Codigo de um visualizador de fotos de carros
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
